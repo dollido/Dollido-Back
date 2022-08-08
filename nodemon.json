@@ -1,0 +1,8 @@
+{
+    "exec": "babel-node server/server.js",
+    "events": {
+        "restart": "kill-port 5000",
+        "crash": "kill-port 5000"
+    },
+    "delay": "1500"
+}

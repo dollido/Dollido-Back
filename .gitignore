@@ -131,3 +131,10 @@ dist
 
 #보안관련해서..
 package-lock.json
+/server/config
+
+# multer dest
+/uploads
+
+# best performer video 올라가는 디렉토리
+*.mp4
