@@ -1,10 +1,9 @@
 
-# :new_moon_with_face: 내 웃음 돌리도
+# :new_moon_with_face: 내 웃음 돌리도 BackEnd
 >연속으로 나오는 재밌는 짤방과 더불어 다이나믹한 장치들을 통해 웃음을 유발하고 승패를 가리는 웹 기반 게임 서비스입니다.
 <br>
 
 ## :exclamation: About
->BackEnd 코드입니다.  
 >돌리도는 화상채팅을 기반으로 한 웃음참기 게임입니다.
 <br>
 
