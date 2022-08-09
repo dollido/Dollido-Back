@@ -4,7 +4,7 @@
 <br>
 
 ## :exclamation: About
->BackEnd 코드입니다.
+>BackEnd 코드입니다.  
 >돌리도는 화상채팅을 기반으로 한 웃음참기 게임입니다.
 <br>
 
